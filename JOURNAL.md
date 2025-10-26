@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **undercuttaaaa**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/80).
-
-
 ## 10/3/2025 - Cadded base stuff  
 
 did most of the base cad now its just making sure motors fit and stuff, also saw how much it costs from sendcutsend (the weapon, im thinking i wanna run this in both full combat and in plant so ill switch weapons, should perform alright i want more bite though so i wanna take chunks outta the side, its funny that its a box but still i digress
@@ -19,4 +15,17 @@ did most of the base cad now its just making sure motors fit and stuff, also saw
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjUzLCJwdXIiOiJibG9iX2lkIn19--d64454fcda3965c92ddc54452465ac392ad766db/image.png)
 
   
+
+## 10/26/2025 - made design more reasonable  
+
+I did not want to deal with absurd balance issues so i moved the blade further, if i was smart i would have done four wheels but the point of the build is to get rid of my n20 drivetrain setups (i have like 3 brushed speed controllers and a buttload of n20s i wanna put to use) and i dont think my escs can handle four motors and i dont wanna deal with pulleys and stuff
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg1NywicHVyIjoiYmxvYl9pZCJ9fQ==--7b60752421fa40a2b09097b5dd98253ea1870d02/image.png)
+
+the shell will be tpu, all structural stuff is gonna be put on the base plate
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--ba7507aef8a4e2928e20ffc00bab3a37a3707ec5/image.png)
+
+may become a probably, screwing into tpu, but ill be going for harder durometer instead of the 95a my friend had and printed with, so it should be fine? (i think it was 65 cause it was absurdly soft but wtv)
+
+gonna upload to the github sooner than later and hopefully fund sooner than later idk i really just need filament and then sendcutsend for the weapon and stuff i needa put together a bom soon fahhhh  
 
