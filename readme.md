@@ -3,4 +3,4 @@ this bot is tuff as hell
 IM WORKING ON IT IM WORKING ON IT
 
 
-<img width="1168" height="1043" alt="image" src="https://github.com/user-attachments/assets/c3fafb23-36c7-42be-9971-aca39c140abf" />
+<img width="1018" height="957" alt="image" src="https://github.com/user-attachments/assets/300e11a7-ff77-469d-a064-6516218f38c3" />
