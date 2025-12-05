@@ -17,7 +17,7 @@ images:
 Some important notes:
 wheels are cast, I am experimenting with oogoo, but the way the molds are designed it should work fine with vytaflex/smoothon
 
-| Item | Quantity | HC Cost | Shipping | Total | Links |
+| Item | Quantity | Total | Shipping | HC Cost | Links |
 |------|----------|---------|----------|-------|-------|
 | Ovionic 450mah 3s | 2 | $19.21 | - | $19.21 | [Amazon](https://www.amazon.com/OVONIC-Battery-Package-Including-Batteries/dp/B0D3F6NPMF/) |
 | ANYCUBIC PLA Plus | 1 | $14.99 | - | $14.99 | [Amazon](https://www.amazon.com/ANYCUBIC-Filament-Toughness-Printing-Dimensional/dp/B0CF1SXM5N/) |
