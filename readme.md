@@ -33,6 +33,6 @@ wheels are cast, I am experimenting with oogoo, but the way the molds are design
 | uxcell M3 x 40mm Alloy Steel Hex Bolt | 1 | $9.49 | - | $9.49 | [Amazon](https://www.amazon.com/Alloy-Steel-Socket-Screws-Black/dp/B00W97R5KU/) |
 | DAP Silicone Max All Purpose Sealant | 1 | $5.99 | - | $5.99 | [Amazon](https://www.amazon.com/DAP-7079808792-Silicone-Building-Material/dp/B07GQBLMG3/) |
 | Argo 100% Pure Corn Starch, 16 Oz | 1 | $2.44 | - | $2.44 | [Amazon](https://www.amazon.com/Argo-100-Pure-Corn-Starch/dp/B00JPT9BFW/) |
-| xt30 connectors | 1 | $5.99 | - | $5.99 | - |
-| **Subtotal** | | **$176.32** | | **$127.16** | |
-| **Total** | | **$175.23** | | **$132.06** | |
+| xt30 connectors | 1 | $5.99 | - | $5.99 | [- ](https://www.amazon.com/TMH-Connector-Female-Connectors-Battery/dp/B0D35HMMX7)|
+| **Subtotal** | | **$176.32** | | **$133.15** | |
+| **Total** | | **$175.23** | | **$137.05** | |
